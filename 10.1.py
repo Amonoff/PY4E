@@ -26,3 +26,5 @@ for address, frequency in list(dict_addresses.items()):
 dict_list.sort(reverse = True)
                               
 print(dict_list)
+
+print(max((dict_list)))
